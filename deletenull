@@ -1,4 +1,0 @@
-DELETE FROM nintendo_games
-WHERE user_score is null OR
-	meta_score is null OR
-	esrb_rating is null;
