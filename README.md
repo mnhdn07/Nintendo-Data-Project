@@ -1,12 +1,12 @@
-# Nintendo-Data-Project
+# Nintendo-Data-Project 
 Nintendo Exploratory Data Analysis with SQL and Tableau
 
-Hello!
+# Hello!
 In this project I'll be using SQL to find important data questions that I have come up with to explore more about the correlation to critic and user reviews and the effects it has on total amount of sales. The data I used on this project was from kaggle ([nintendovideogames.csv](https://github.com/mnhdn07/Nintendo-Data-Project/files/8102902/nintendovideogames.csv))
 
 
 
-Some information I am looking to get from the data 
+## Some information I am looking to get from the data ## 
 1.	Top 10 most popular games based on critic score and user score.
 2.	ESRB rating distribution of all video games.
 3.	Top 10 most popular games based off sales.
@@ -15,7 +15,7 @@ Some information I am looking to get from the data
 
 
 
-Hypothesis and Questions
+## Hypothesis and Questions ##
 
 1.	Are sales dictated around metascore?
 2.	Does user score and critic score correlate?
