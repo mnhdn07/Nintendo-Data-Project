@@ -1,5 +1,5 @@
 # Nintendo Video Game Data Exploratory Project 
-![This is an image](https://m.media-amazon.com/images/I/81s7B+Als-L._SL1500_.jpg)
+![This is an image](https://cdn.pocket-lint.com/r/s/1200x/assets/images/157862-games-review-hands-on-nintendo-switch-oled-model-review-the-switch-to-rule-them-all-image1-onw8cdg7sm.jpg)
 
 > Nintendo Exploratory Data Analysis with SQL and Tableau
 
