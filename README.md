@@ -4,7 +4,8 @@
 > Nintendo Exploratory Data Analysis with SQL and Tableau
 
 # Hello Everyone!
-In this project I'll be using SQL to find important data questions that I have come up with to explore more about the correlation to critic and user reviews and the effects it has on total amount of sales. Following that, I'll gather the results of my findings and will create a dashboard via Tableau to highlight my findings. The data I used on this project was from kaggle ([nintendovideogames.csv](https://github.com/mnhdn07/Nintendo-Data-Project/files/8102902/nintendovideogames.csv))
+In this project I'll be using SQL to find important data questions that I have come up with to explore more about the correlation to critic and user reviews and the effects it has on total amount of sales. Following that, I'll gather the results of my findings and will create a dashboard via Tableau to highlight my findings. 
+- You can find my Tableau dashboard here https://public.tableau.com/app/profile/minh.doan1078/viz/NintendoProject_16454231265120/Dashboard1 
 
 
 
